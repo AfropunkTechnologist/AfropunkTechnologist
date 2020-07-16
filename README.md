@@ -1,6 +1,6 @@
 
-<h2> Hi, I'm Quinten. <img src="assets/images/afropunk-logo.png" width="50"></h2>
-<img src="assets/images" align="right" width="230">
+<h2> Hi, I'm Quinten. <img src="assets/images/afropunk-technologist.png" width="50"></h2>
+<img src="assets/images/afropunk-logo.png" align="right" width="230">
 <p><em>I'm an Afrofuturist interested in Biotechnology, Bioinformatics and Computational Biology.</em></p>
 <p>I'm building tools to program living cells enabling the intelligent design of living systems to power 
 biotechnologies with outsized societal benefit.</p>
