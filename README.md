@@ -34,18 +34,3 @@ Languages & Tools:
 <code><img height="20" src="assets/images/SystemVerilog-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-<code>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,562;0,600;0,700;1,400;1,500;1,562;1,600;1,700&display=swap');
-        .heading-section h2 {
-            font-size: 14vw;
-            font-weight: 900;
-            line-height: 1.0;
-            font-family: "Poppins", Arial, sans-serif;
-            text-transform: uppercase;
-            text-align: left;
-        }
-    </style>
-</code>
