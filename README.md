@@ -15,7 +15,7 @@ Currently, I'm learning ARM Assembly, R & Verilog
 Pronouns: Real/Nigga
 
 Languages & Tools: ARM Assembly, Bash, C#, C++, C, GraphQL, HTML/(S)CSS, JavaScript,
-MATLAB, PowerShell, Python, R, SQL, Swift, Verilog/Systems Verilog, Visual Basic .NET
+MATLAB, PowerShell, Python, R, SQL, Swift, Verilog/System Verilog, Visual Basic .NET
 </p>
 
 
