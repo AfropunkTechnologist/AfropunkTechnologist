@@ -2,7 +2,7 @@
 
 <h1 style="font-family: 'Lora'">Hi, I'm Quinten.</h1>
 <img src="https://github.com/AfropunkTechnologist/AfropunkTechnologist/blob/master/assets/images/afropunk-logo.png" align="right" width="230">
-<p style="font-family: 'Poppins'"><strong>I'm an Afrofuturist. Biotechnologist, DevOps Goon.</strong></p>
+<p style="font-family: 'Poppins'"><strong>I'm an Afrofuturist, Biotechnologist, DevOps Goon.</strong></p>
 <p style="font-family: 'Poppins'">I'm building tools to program living cells enabling the intelligent design of living systems to power 
 biotechnologies with outsized societal benefit.
 
