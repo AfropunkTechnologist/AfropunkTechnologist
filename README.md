@@ -7,7 +7,7 @@
 
 <h2 class="heading-section" style="font-family: 'Poppins; font-size: 14vw; font-weight:900'"><strong>Latest &</strong> <span style="font-family: 'Lora'">Greatest</span></h2>
 <p style="font-family: 'Poppins'">
-Currently, I'm working on cross-platform CAD/CAM tools for modeling biophysical systems and building therapeutic applications.  
+Currently, I'm working on cross-platform CAD/CAM tools for modeling biophysical systems and biometric data privacy.  
 </p>
 
 
